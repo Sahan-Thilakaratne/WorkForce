@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Api.csproj": {}
+    "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Api.csproj": {
+    "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Api.csproj",
-        "packagesPath": "C:\\Users\\sahanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\obj\\",
+        "projectPath": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Api.csproj",
+        "packagesPath": "C:\\Users\\Sahan Thilakaratne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sahanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Users\\Sahan Thilakaratne\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +25,6 @@
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -96,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
