@@ -1,53 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sahanp\\Desktop\\WorkForce\\",
+  "WorkspaceRootPath": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahanp\\desktop\\workforce\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahanp\\desktop\\workforce\\src\\api\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahanp\\desktop\\workforce\\src\\api\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahan thilakaratne\\desktop\\workflow\\workforce\\src\\api\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahanp\\desktop\\workforce\\src\\api\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahanp\\desktop\\workforce\\src\\api\\domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahanp\\desktop\\workforce\\src\\api\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahanp\\desktop\\workforce\\src\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahanp\\desktop\\workforce\\src\\api\\domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahanp\\desktop\\workforce\\src\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahanp\\desktop\\workforce\\src\\api\\domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahanp\\desktop\\workforce\\src\\api\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahan thilakaratne\\desktop\\workflow\\workforce\\src\\api\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahanp\\desktop\\workforce\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahan thilakaratne\\desktop\\workflow\\workforce\\src\\api\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahan thilakaratne\\desktop\\workflow\\workforce\\src\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahan thilakaratne\\desktop\\workflow\\workforce\\src\\api\\domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahan thilakaratne\\desktop\\workflow\\workforce\\src\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahan thilakaratne\\desktop\\workflow\\workforce\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahan thilakaratne\\desktop\\workflow\\workforce\\src\\api\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|c:\\users\\sahan thilakaratne\\desktop\\workflow\\workforce\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F903402A-729F-405A-9B88-6BE80A5B980F}|src\\Api\\Api.csproj|solutionrelative:src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -58,162 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Domain\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Domain\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Domain\\Entities\\Employee.cs",
-              "RelativeToolTip": "src\\Api\\Domain\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBoAAAAyAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:35:47.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "src\\Api\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:26:46.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Domain\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Domain\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Domain\\Entities\\AppUser.cs",
-              "RelativeToolTip": "src\\Api\\Domain\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:36:06.665Z",
+              "WhenOpened": "2025-11-06T13:38:17.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Domain\\Entities\\Department.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Domain\\Entities\\Department.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Domain\\Entities\\Department.cs",
-              "RelativeToolTip": "src\\Api\\Domain\\Entities\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "src\\Api\\Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:35:36.397Z",
+              "WhenOpened": "2025-11-06T09:15:10.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "JwtTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Services\\JwtTokenService.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Services\\JwtTokenService.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Services\\JwtTokenService.cs",
-              "RelativeToolTip": "src\\Api\\Services\\JwtTokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Dtos\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Dtos\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Dtos\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "src\\Api\\Dtos\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:37:35.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "src\\Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:23:41.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DbSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Data\\DbSeeder.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Data\\DbSeeder.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Data\\DbSeeder.cs",
-              "RelativeToolTip": "src\\Api\\Data\\DbSeeder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:27:35.622Z",
+              "WhenOpened": "2025-11-06T08:56:41.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Dtos\\Auth\\LoginDto.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Dtos\\Auth\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Dtos\\Auth\\LoginDto.cs",
-              "RelativeToolTip": "src\\Api\\Dtos\\Auth\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Dtos\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Dtos\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Dtos\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "src\\Api\\Dtos\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:36:54.699Z",
+              "WhenOpened": "2025-11-06T08:56:12.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "src\\Api\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:41:23.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:32:02.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "src\\Api\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:27:39.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\appsettings.json",
+              "RelativeToolTip": "src\\Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T08:36:25.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Api\\Program.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Sahan Thilakaratne\\Desktop\\Workflow\\WorkForce\\src\\Api\\Program.cs",
               "RelativeToolTip": "src\\Api\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwEoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T08:36:14.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Domain\\Enums\\UserRole.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Domain\\Enums\\UserRole.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Domain\\Enums\\UserRole.cs",
-              "RelativeToolTip": "src\\Api\\Domain\\Enums\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:35:12.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Dtos\\Auth\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Dtos\\Auth\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\Dtos\\Auth\\RegisterDto.cs",
-              "RelativeToolTip": "src\\Api\\Dtos\\Auth\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:37:05.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\WorkForce\\src\\Api\\appsettings.json",
-              "RelativeToolTip": "src\\Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-29T08:36:25.063Z",
               "EditorCaption": ""
             }
           ]

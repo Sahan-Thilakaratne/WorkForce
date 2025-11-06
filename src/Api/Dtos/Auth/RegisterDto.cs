@@ -1,6 +1,4 @@
 ﻿namespace Api.Dtos.Auth
 {
-    public class RegisterDto
-    {
-    }
+    public record RegisterDto(string Username, string Password, string FirstName, string LastName, string? Email, string Role = "EMPLOYEE");
 }
