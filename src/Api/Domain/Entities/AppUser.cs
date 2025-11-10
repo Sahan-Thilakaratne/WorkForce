@@ -8,6 +8,7 @@ namespace Api.Domain.Entities
         public long Id { get; set; }
         public long? EmployeeId { get; set; }
 
+        [Required]
         public Employee Employee { get; set; }
 
         [Required]

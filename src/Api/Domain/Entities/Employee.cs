@@ -12,6 +12,7 @@ namespace Api.Domain.Entities
         [Required]
         public string FirstName { get; set; } = string.Empty;
 
+        [Required]
         public string LastName { get; set; }
 
         public string? Email { get; set; }

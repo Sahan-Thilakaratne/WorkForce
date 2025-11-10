@@ -13,12 +13,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // --- Neon / Npgsql enum mapping for user_role ---
 
-var connString = builder.Configuration.GetConnectionString("Default");
-var dataSourceBuilder = new NpgsqlDataSourceBuilder(connString);
-
-dataSourceBuilder.MapEnum<UserRole>("user_role");
-
-var dataSource = dataSourceBuilder.Build();
+var connString = builder.Configuration.GetConnectionString("DefaultConnection")
+    ?? throw new InvalidOperationException("ConnectionStrings:DefaultConnection missing.");
+var dsb = new Npgsql.NpgsqlDataSourceBuilder(connString);
+dsb.MapEnum<UserRole>("user_role");
+var dataSource = dsb.Build();
 
 builder.Services.AddDbContext<AppDbContext>(opt =>
 opt.UseNpgsql(dataSource));
